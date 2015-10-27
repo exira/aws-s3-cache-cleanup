@@ -9,7 +9,7 @@
 // for binaries output to root bin folder please add the filename only to the
 // referenceBinaries list below in order to generate documentation for the binaries.
 // (This is the original behaviour of ProjectScaffold prior to multi project support)
-let referenceBinaries = []
+let referenceBinaries = [ "aws-s3-cache-cleanup\\aws-s3-cache-cleanup.exe" ]
 // Web site location for the generated documentation
 let website = "/aws-s3-cache-cleanup"
 
