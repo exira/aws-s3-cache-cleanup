@@ -1,0 +1,21 @@
+type project
+owners
+    exira
+authors
+    exira
+projectUrl
+    http://git.exira.com/aws-s3-cache/
+iconUrl
+    https://raw.githubusercontent.com/exira/aws-s3-cache/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/exira/aws-s3-cache/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    aws s3 f#
+summary
+    Exira.AwsS3Cache is an IIS module which reads cached objects from AWS S3 and quickly serves them to end users
+description
+    Exira.AwsS3Cache is an IIS module which reads cached objects from AWS S3 and quickly serves them to end users
