@@ -4,11 +4,11 @@ owners
 authors
     exira
 projectUrl
-    http://git.exira.com/aws-s3-cache/
+    http://git.exira.com/aws-s3-cache-cleanup/
 iconUrl
-    https://raw.githubusercontent.com/exira/aws-s3-cache/master/docs/files/img/logo.png
+    https://raw.githubusercontent.com/exira/aws-s3-cache-cleanup/master/docs/files/img/logo.png
 licenseUrl
-    http://github.com/exira/aws-s3-cache/blob/master/LICENSE.txt
+    http://github.com/exira/aws-s3-cache-cleanup/blob/master/LICENSE.txt
 requireLicenseAcceptance
     false
 copyright
@@ -16,6 +16,6 @@ copyright
 tags
     aws s3 f#
 summary
-    Exira.AwsS3Cache is an IIS module which reads cached objects from AWS S3 and quickly serves them to end users
+    Exira.AwsS3Cache.Cleanup is a task which cleans up expired cached objects from AWS S3
 description
-    Exira.AwsS3Cache is an IIS module which reads cached objects from AWS S3 and quickly serves them to end users
+    Exira.AwsS3Cache.Cleanup is a task which cleans up expired cached objects from AWS S3
