@@ -1,4 +1,6 @@
 type project
+id
+    Exira.AwsS3Cache.Cleanup
 owners
     exira
 authors
