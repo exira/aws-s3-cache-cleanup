@@ -4,10 +4,10 @@ open System.Reflection
 [<assembly: AssemblyTitleAttribute("aws-s3-cache-cleanup")>]
 [<assembly: AssemblyProductAttribute("Exira.AwsS3Cache.Cleanup")>]
 [<assembly: AssemblyDescriptionAttribute("Exira.AwsS3Cache.Cleanup is a task which cleans up expired cached objects from AWS S3")>]
-[<assembly: AssemblyVersionAttribute("0.1.5")>]
-[<assembly: AssemblyFileVersionAttribute("0.1.5")>]
-[<assembly: AssemblyMetadataAttribute("githash","5b9d940d743e48c185590aa3794b81d2ddcb2b43")>]
+[<assembly: AssemblyVersionAttribute("0.1.6")>]
+[<assembly: AssemblyFileVersionAttribute("0.1.6")>]
+[<assembly: AssemblyMetadataAttribute("githash","51ecacf0fc2e9b69110135f49d503f0c9ef9bf15")>]
 do ()
 
 module internal AssemblyVersionInformation =
-    let [<Literal>] Version = "0.1.5"
+    let [<Literal>] Version = "0.1.6"
